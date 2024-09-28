@@ -22,11 +22,11 @@ This is a simple web-based Pokedex application built with HTML, CSS, and JavaScr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pokedex-website.git
+   git clone https://github.com/itsmilotic/pokedex-website.git
    ## Usage
 
 1. Browse through the grid to see different Pokémon.
-2. Use the search bar to find specific Pokémon by name or ID. If the search input is left empty, all available Pokémon will be displayed.
+2. Use the search bar to find specific Pokémon by name or ID. If the search input is left empty, all available orgianl 151 Pokémon will be displayed.
 3. Click on a Pokémon card to view its details such as stats, abilities, and more.
 4. Switch between light and dark themes by clicking the theme toggle button.
 
