@@ -22,7 +22,7 @@ This is a simple web-based Pokedex application built with HTML, CSS, and JavaScr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/itsmilotic/pokedex-website.git
+   git clone https://github.com/itsmilotic/Pokedex.git
    
 ## Usage
 
