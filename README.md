@@ -23,3 +23,29 @@ This is a simple web-based Pokedex application built with HTML, CSS, and JavaScr
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/pokedex-website.git
+   ## Usage
+
+1. Browse through the grid to see different Pokémon.
+2. Use the search bar to find specific Pokémon by name or ID. If the search input is left empty, all available Pokémon will be displayed.
+3. Click on a Pokémon card to view its details such as stats, abilities, and more.
+4. Switch between light and dark themes by clicking the theme toggle button.
+
+## Upcoming Features
+
+- Add Pokémon filters (e.g., by type, generation).
+- Add sorting options (e.g., by height, weight, base stats).
+- Implement a comparison feature between two Pokémon.
+- Improve the UI for better mobile experience.
+
+## Contributing
+
+Feel free to fork this repository, create a new branch, and submit a pull request for any improvements or features you'd like to add.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+- [PokeAPI](https://pokeapi.co/) for providing all the Pokémon data.
+- Inspired by the original Pokémon games by Nintendo.
